@@ -3,11 +3,11 @@
   "last_update": "2025-01-15",
   "keys": [
     {
-      "key": "EOS-ACE-0001",
+      "key": "ACE",
       "user": "ACE",
       "expired": "2027-12-31",
       "status": "active",
-      "hwid": ""
+      "hwid": "EOS-e64d66f0-2AB59FD6"
     },
     {
       "key": "EOS-VIP-0001",
