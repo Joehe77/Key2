@@ -14,7 +14,7 @@
     { "device_id": "6650a31e3b727cc8", "key": "ACESTORE900", "expirydate": "28-07-8026", "Allowoffline": true },
     { "device_id": "9cff5c13bff174d2", "key": "ACESTORE901", "expirydate": "28-07-8026", "Allowoffline": true },
     { "device_id": "e64d66f00f68ea12", "key": "ACESTORE902", "expirydate": "28-07-8026", "Allowoffline": true },
-    { "device_id": "", "key": "", "expirydate": "", "Allowoffline": true },
+    { "device_id": "e64d66f00f68ea12", "key": "ACE", "expirydate": "28-07-8026", "Allowoffline": true },
     { "device_id": "", "key": "", "expirydate": "", "Allowoffline": true },
     { "device_id": "", "key": "", "expirydate": "", "Allowoffline": true },
     { "device_id": "", "key": "", "expirydate": "", "Allowoffline": true },
