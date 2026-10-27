@@ -1,0 +1,17 @@
+[
+  {
+    "key": "ACE-VIP-001",
+    "device": "",
+    "expiry": "31-12-2026"
+  },
+  {
+    "key": "ACE-VIP-002",
+    "device": "1234567890abcdef",
+    "expiry": "31-12-2026"
+  },
+  {
+    "key": "ACE-TRIAL-003",
+    "device": "",
+    "expiry": "01-01-9999"
+  }
+]
