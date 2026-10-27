@@ -1,17 +1,34 @@
-[
-  {
-    "key": "ACE-VIP-001",
-    "device": "",
-    "expiry": "31-12-2026"
-  },
-  {
-    "key": "ACE-VIP-002",
-    "device": "1234567890abcdef",
-    "expiry": "31-12-2026"
-  },
-  {
-    "key": "ACE-TRIAL-003",
-    "device": "",
-    "expiry": "01-01-9999"
-  }
-]
+{
+  "version": "1.0",
+  "last_update": "2025-01-15",
+  "keys": [
+    {
+      "key": "EOS-ACE-0001",
+      "user": "ACE",
+      "expired": "2027-12-31",
+      "status": "active",
+      "hwid": ""
+    },
+    {
+      "key": "EOS-VIP-0001",
+      "user": "VIP-01",
+      "expired": "2026-06-30",
+      "status": "active",
+      "hwid": ""
+    },
+    {
+      "key": "EOS-TRIAL-001",
+      "user": "TRIAL",
+      "expired": "2025-12-31",
+      "status": "active",
+      "hwid": ""
+    },
+    {
+      "key": "EOS-EXPIRED-01",
+      "user": "OLD",
+      "expired": "2024-01-01",
+      "status": "expired",
+      "hwid": ""
+    }
+  ]
+}
