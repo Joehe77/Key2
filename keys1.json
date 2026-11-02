@@ -10,11 +10,11 @@
       "hwid": "EOS-e64d66f0-2AB59FD6"
     },
     {
-      "key": "EOS-VIP-0001",
+      "key": "VIP-0001",
       "user": "VIP-01",
-      "expired": "2026-06-30",
+      "expired": "8026-12-26",
       "status": "active",
-      "hwid": ""
+      "hwid": "EOS-c5624125-991BC83B"
     },
     {
       "key": "EOS-TRIAL-001",
