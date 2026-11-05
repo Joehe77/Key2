@@ -31,11 +31,11 @@
       "hwid": "EOS-533b72b7-BD895687"
     },
     {
-      "key": "EOS-EXPIRED-01",
-      "user": "OLD",
-      "expired": "2024-01-01",
-      "status": "expired",
-      "hwid": ""
+      "key": "EOS03",
+      "user": "EOS03",
+      "expired": "8026-09-09",
+      "status": "active",
+      "hwid": "EOS-0e470830-7B2E85A5"
     }
   ]
 }
