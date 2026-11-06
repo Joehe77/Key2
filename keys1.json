@@ -36,6 +36,13 @@
       "expired": "8026-09-09",
       "status": "active",
       "hwid": "EOS-0e470830-7B2E85A5"
+    },
+    {
+      "key": "EOS04",
+      "user": "EOS04",
+      "expired": "8026-09-09",
+      "status": "active",
+      "hwid": "EOS-b35fb42d-4D3BBDA5"
     }
   ]
 }
