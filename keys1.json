@@ -73,6 +73,13 @@
       "hwid": "EOS-2e097901-5A02B49"
     },
     {
+      "key": "EOS009",
+      "user": "EOS009",
+      "expired": "8026-09-09",
+      "status": "active",
+      "hwid": "EOS-bc73839f-79E89A26"
+    },
+    {
       "key": "EOS05",
       "user": "EOS05",
       "expired": "8026-09-09",
